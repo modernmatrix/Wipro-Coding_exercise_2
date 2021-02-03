@@ -2,6 +2,22 @@
 
 ## Coding_exercise_2
 
+# How to install
+
+### git clone https://github.com/modernmatrix/Wipro-Coding_exercise_2.git
+
+### cd Wipro-Coding_exercise_2
+
+# Install dependencies
+
+### npm install
+
+# How to run
+
+### node index.js
+
+# Requierments
+
 ## Create repo with initial code from coding-master.zip
 ## Complete the below mentioned task.Tasks:
   
